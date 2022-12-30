@@ -1,5 +1,5 @@
 # Named-Entity-Recognition
-Huggigface RoBERTa model implementation for NER on conll2003 dataset. 
+Huggingface RoBERTa model implementation for NER on conll2003 dataset. 
 
 <h3>Flow of the program:</h3> 
 <p> 1. Importing data using Huggingface Dataset </p>
