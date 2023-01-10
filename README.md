@@ -20,3 +20,6 @@ Ouput
 ```
 [{'entity': 'B-PER', 'score': 0.84195936, 'index': 4, 'word': 'wolfgang', 'start': 11, 'end': 19}, {'entity': 'B-LOC', 'score': 0.9583987, 'index': 9, 'word': 'berlin', 'start': 34, 'end': 40}]
 ```
+
+# Entire Explanation : 
+https://arshad-kazi.com/ner-using-hugging-face-transformers/
